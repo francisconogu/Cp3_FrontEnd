@@ -20,4 +20,4 @@ Projeto de uma página web responsiva e elegante para a **Vinharia Agnello**, ut
 
 ## 🔗 Links
 - **Repositório no GitHub:** [https://github.com/francisconogu/Cp03_FrontEndDesignn.git](https://github.com/francisconogu/Cp03_FrontEndDesignn.git)
-- **Link do GitHub pages:**[https://francisconogu.github.io/Cp3_FrontEnd/flex-layout.html] (https://francisconogu.github.io/Cp3_FrontEnd/flex-layout.html)
+- **Link do GitHub pages:**[https://francisconogu.github.io/Cp3_FrontEnd/flex-layout.html]
